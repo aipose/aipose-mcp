@@ -54,7 +54,7 @@ In Cursor settings (`Features` → `MCP Servers` → `Add New MCP Server`):
 ### 3. Local Development / From Source
 
 ```bash
-git clone https://github.com/shipany-ai/aipose-mcp.git
+git clone https://github.com/aipose/aipose-mcp.git
 cd aipose-mcp
 pnpm install
 pnpm build

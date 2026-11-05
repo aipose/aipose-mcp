@@ -16,7 +16,7 @@
   "homepage": "https://aipose.org",
   "repository": {
     "type": "git",
-    "url": "https://github.com/shipany-ai/aipose-mcp.git"
+    "url": "https://github.com/aipose/aipose-mcp.git"
   },
   "license": "MIT",
   "author": "AIPose Team <team@aipose.org>",
